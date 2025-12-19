@@ -118,10 +118,24 @@ I gained a deep understanding of Spark Write Modes (`Overwrite` vs `Append` vs `
 
 <p> As part of my transition into data engineering, I explored Azure through online courses and documentation.This project reflects the skills I gained and my ability to apply them in a real cloud environment.</p>
 
+
 ## Final Thoughts
+<div align="center">
+<p align="center" width="60%">
+    Building this project has improved my practical skills in <b>Azure Data Engineering</b> and strengthened my understanding of cloud architecture design. It reflects my curiosity, persistence, and passion for developing real, end-to-end cloud data solutions.
+</p>
 
-* Building this project has improved my practical skills in Azure Data Engineering and strengthened my understanding of cloud architecture design.
-* It reflects my curiosity, persistence, and passion for developing real, end-to-end cloud data solutions.
-* More Azure, Databricks, and data platform projects will be added soon.
+<p align="center">
+    <i>More Azure, Databricks, and data platform projects will be added soon.</i>
+</p>
 
-<p> If you have suggestions, feedback, or opportunities related to data engineering, feel free to connect with me. I’m always excited to learn, collaborate, and work on meaningful data projects.</p>
+<h3>Let's Connect</h3>
+<p align="center">
+    If you have suggestions, feedback, or opportunities, feel free to reach out! I’m always excited to learn, collaborate, and work on meaningful data projects.
+</p>
+
+<a href="https://www.linkedin.com/in/koushik-koushik-5b6215257/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</div>
+<br>

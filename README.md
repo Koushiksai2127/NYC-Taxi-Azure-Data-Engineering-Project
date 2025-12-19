@@ -19,12 +19,17 @@ The pipeline follows a modern Lakehouse architecture pattern:
 
 `[Web API Source]` ➔ `[Azure Data Factory]` ➔ `[ADLS Gen2 (Bronze)]` ➔ `[Databricks (Spark Transformation)]` ➔ `[Power BI (Reporting)]`
 
+![NYC Architecture](https://github.com/Koushiksai2127/NYC-Taxi-Azure-Data-Engineering-Project/blob/main/Architecture%20and%20Reporting/NYC%20Architecture.png)
+
 ### Tech Stack & Tools
 * **Ingestion:** Azure Data Factory (ADF) with Dynamic Pipelines.
 * **Storage:** Azure Data Lake Storage Gen2 (ADLS) - Hierarchical Namespace enabled.
 * **Compute & Transform:** Azure Databricks (PySpark, Delta Lake).
 * **Governance:** Unity Catalog for secure access management.
 * **Visualization:** Power BI connected via Partner Connect.
+
+### Data Source
+Check out the [NYC Taxi Source Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) here.
 
 ## Key Implementation Features
 
@@ -94,9 +99,8 @@ The Gold layer (aggregated data) is connected to Power BI using Databricks Partn
 </div>
 <br>
 * Created a visualization dashboard to analyze trip frequency and trends.
-<div align="center">
-  <img width="975" height="495" alt="image" src="https://github.com/user-attachments/assets/08e0a8fe-b257-4126-88d8-32ba085b42cd" />
-</div>
+
+![PowerBi Report](https://github.com/Koushiksai2127/NYC-Taxi-Azure-Data-Engineering-Project/blob/main/Architecture%20and%20Reporting/Reporting.png)
 
 
 ## Key Takeaways & Learnings
